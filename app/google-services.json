@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "217697094885",
+    "firebase_url": "https://practice-project-68870-default-rtdb.firebaseio.com",
+    "project_id": "practice-project-68870",
+    "storage_bucket": "practice-project-68870.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217697094885:android:0365480597c0965450180c",
+        "android_client_info": {
+          "package_name": "com.example.camerasiging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217697094885-i2533r3jign933klh7462fnd6f38rhq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYa09h3rFs7iTPf-buqeVaczBC9goZORM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217697094885-i2533r3jign933klh7462fnd6f38rhq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217697094885:android:561dbcfdae8aa6ad50180c",
+        "android_client_info": {
+          "package_name": "com.example.realtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217697094885-i2533r3jign933klh7462fnd6f38rhq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYa09h3rFs7iTPf-buqeVaczBC9goZORM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217697094885-i2533r3jign933klh7462fnd6f38rhq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
